@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d50fdcf7-09a8-46f5-bd3a-43d0df6186ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HardwareBasico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MemoriaUSB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SistemaOperacional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +66,8 @@
       <workItem from="1679611154568" duration="3150000" />
       <workItem from="1679615458222" duration="1062000" />
       <workItem from="1679701677342" duration="2332000" />
-      <workItem from="1679704435541" duration="3498000" />
+      <workItem from="1679704435541" duration="4096000" />
+      <workItem from="1680043105703" duration="189000" />
     </task>
     <servers />
   </component>
